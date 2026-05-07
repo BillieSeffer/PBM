@@ -1,0 +1,2 @@
+mean_pressure,pressure_uncertainty,mean_energy,energy_uncertainty,acceptance_rate,nParticles,density,nInitCycle,nCycle,nSpacing
+2.7004119323627933e+20,5.466457213430581e+19,1.8227780072839594e-06,3.6898585239345624e-07,0.512,300,358.4,50,100,10
